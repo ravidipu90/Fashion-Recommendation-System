@@ -1,6 +1,5 @@
 # Fashion Recommendation System
-Model : Resnet50
-In this project I have designed a fashion recommendation system which will take one image from user and will show ten similar images.
+In this project I have designed a fashion recommendation system which will take one image from user and will show ten similar images. Model : Resnet50
 There are two python files namely a.> feature_extraction: In this file I have extracted 2048 features for each image in the given dataset (image folder).
                                   b.> fashion_recommendation_system: In this file I have taken an image as an input and then display 10 similar images.
 # How to run
